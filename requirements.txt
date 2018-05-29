@@ -1,1 +1,4 @@
 flask
+flask-runner
+flask-wtf
+gunicorn
